@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sneaker Stock Checker</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_by_product_id">Search by Product ID</string>
+    <string name="search_by_name">Search by Name</string>
+    <string name="product_name_or_id">product name or id</string>
+    <string name="textview">TextView</string>
+    <string-array name ="regions">
+        <item>Canada</item>
+        <item>United States</item>
+        <item>United Kingdom (UK Sizing)</item>
+        <item>United Kingdom (EU Sizing)</item>
+        <item>Australia</item>
+    </string-array>
+</resources>
